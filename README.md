@@ -1,4 +1,8 @@
 # Assignment-3
+
+![001](https://user-images.githubusercontent.com/74086154/104819117-0345ac80-585e-11eb-9d23-eeca66d79b5f.jpg)
+
+
 คำสั่งตั่างๆๆที่คัญในการเขียน แอปพลิเคชัน Ecommerce ที่ทำงานร่วมกับ Blockchain 
 
 คำสั่งสร้าง Smart Contract 
