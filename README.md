@@ -242,12 +242,10 @@ http(s)://domain:port ให้ถูกต้องค่ะ อย่างใ
 จากนั้นเปิด Web Browser แล้วเข้าไปที่ URL http://localhost:3000 
 
 ![1](https://user-images.githubusercontent.com/74086154/104819218-a5fe2b00-585e-11eb-9585-84b447847e45.jpg)
+![2](https://user-images.githubusercontent.com/74086154/104819358-83204680-585f-11eb-808c-270e1822dfef.jpg)
+![3](https://user-images.githubusercontent.com/74086154/104819369-9df2bb00-585f-11eb-82c3-b1f97b56edc6.jpg)
+![4](https://user-images.githubusercontent.com/74086154/104819378-a5b25f80-585f-11eb-9fb0-b44dd3482c05.jpg)
 
-![2](https://user-images.githubusercontent.com/74086154/104819232-b6aea100-585e-11eb-8725-2d6ac6a75d0e.jpg)
-
-![3](https://user-images.githubusercontent.com/74086154/104819238-c5955380-585e-11eb-999b-6974209ddf0c.jpg)
-
-![4](https://user-images.githubusercontent.com/74086154/104819249-d80f8d00-585e-11eb-8874-d53ed9b8ff1a.jpg)
 
 
 Conclusion
